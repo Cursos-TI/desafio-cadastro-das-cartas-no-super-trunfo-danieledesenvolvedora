@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Jogo Desafio Xadrez Avançado
+// Jogo Desafio Xadrez Avançado.
 
 
 // Movimento do jogo peça Torre
